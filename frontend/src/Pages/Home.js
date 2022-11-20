@@ -31,20 +31,20 @@ const HomePage = ()=> {
                     </Link>
                 </div>
                 <img 
-                    src="../public/images/Ellipse-desktop.png" 
+                    src="../../public/images/Ellipse-desktop.png" 
                     className="ellipse-desktop"
                 />
                 <img 
-                    src="../public/images/Ellipse-mobile.png" 
+                    src="../../public/images/Ellipse-mobile.png" 
                     className="ellipse-mobile"
                 />
                 <img 
-                    src="../public/images/young-man.png" 
+                    src="../../public/images/young-man.png" 
                     alt="Male Writer"
                     className="writers male-writer"
                 />
                 <img 
-                    src="../public/images/young-woman.png" 
+                    src="../../public/images/young-woman.png" 
                     alt="Female Writer"
                     className="writers female-writer"
                 />
